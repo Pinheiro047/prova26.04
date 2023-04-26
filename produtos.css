@@ -1,0 +1,26 @@
+.conteudo img{
+    border-radius: 18px;
+    opacity: 1;
+    padding: 50px;
+    width: 220px;
+    align-items: center;
+}
+
+.colorido:hover{
+   transform: scale(1.2);
+   cursor: pointer;
+}
+
+/* .conteudo:hover{
+    cursor: pointer;
+    opacity: 3.0;
+} */
+p{
+    text-align: center;
+    font-size: 1.6rem;
+    color: green;
+}
+.descricao{
+    color: black;
+    font-size: 1.8rem;
+}
