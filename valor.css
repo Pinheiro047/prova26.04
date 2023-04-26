@@ -1,0 +1,24 @@
+label{
+    font-size: 20px;
+    font-family: Impact;
+}
+
+input{
+    font-size: 30px;
+    border-radius: 20px;
+    padding-inline-start: 12px;
+}
+
+button{
+   padding-top: 12px;
+   padding-bottom: 12px;
+   padding-right: 30px;
+   padding-left: 30px;
+   border-radius: 30px;
+   font-size: 16px;
+   font-weight: bold;
+}
+
+button:hover{
+    cursor: pointer;
+}
