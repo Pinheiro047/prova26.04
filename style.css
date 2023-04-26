@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color:rgb(189, 216, 216);
+}
+
+header{
+    background-color: whitesmoke;
+}
+
+ul{
+    font-size: 20px;
+    width: 120px;
+    text-decoration: none;
+    justify-content: space-around;
+}
+
+main{
+    height: 500px;
+}
+
+
+footer{
+    background-color: rgb(209, 204, 204);
+}
